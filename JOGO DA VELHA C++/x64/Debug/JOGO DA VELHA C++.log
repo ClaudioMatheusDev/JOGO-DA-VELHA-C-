@@ -1,0 +1,4 @@
+﻿  JOGO DA VELHA C++.cpp
+C:\Users\claud\OneDrive\Desktop\PROJETOS\ESTUDOS\AULA GENERICS, SET, DICTIONARY\RESTRIÇÕES DO GENERICS\JOGO DA VELHA C++\JOGO DA VELHA C++\JOGO DA VELHA C++.cpp(106,9): warning C4101: 'linha': variável local não referenciada
+C:\Users\claud\OneDrive\Desktop\PROJETOS\ESTUDOS\AULA GENERICS, SET, DICTIONARY\RESTRIÇÕES DO GENERICS\JOGO DA VELHA C++\JOGO DA VELHA C++\JOGO DA VELHA C++.cpp(106,16): warning C4101: 'coluna': variável local não referenciada
+  JOGO DA VELHA C++.vcxproj -> C:\Users\claud\OneDrive\Desktop\PROJETOS\ESTUDOS\AULA GENERICS, SET, DICTIONARY\RESTRIÇÕES DO GENERICS\JOGO DA VELHA C++\x64\Debug\JOGO DA VELHA C++.exe
